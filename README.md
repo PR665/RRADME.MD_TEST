@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm PURUSHOTTAM</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PURUSHOTTAM&label=Profile%20views&color=0e75b6&style=plastic" alt="PURUSHOTTAM" width="60" height="30" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PURUSHOTTAM&label=Profile%20views&color=0e75b6&style=plastic" alt="PURUSHOTTAM" width="150" height="30" /> </p>
 
 - 🔭 I’m currently working on [🤣BOARD EXAMS🤣](https://t.me/Mr_Purushottam)
 
