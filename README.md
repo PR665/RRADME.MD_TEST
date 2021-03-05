@@ -1,11 +1,3 @@
-# te1
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PURUSHOTTAM&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
-
-# td
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PYRUSHOTTAM&show_icons=true&theme=tokyonight&locale=en" alt="xditya" /></p>
-
 ### Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
@@ -45,8 +37,7 @@ REQUIRED VALUES :
 <br>
 
 <p align="center">
-
-   <a href = "https://t.me/mr_purushottam_m"><img src="https://telegra.ph/file/1d78ce079c48c82e7303d.jpg" alt="Press to Takeoff" width="600px"></a>
+   <a href = "https://t.me/mr_purushottam_m"><img src="https://telegra.ph/file/963e64ded8d49a32b24b2.jpg" alt="Press to Takeoff" width="500px" hight="240></a>
 
 </p>
 
