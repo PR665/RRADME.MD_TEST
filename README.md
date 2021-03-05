@@ -33,7 +33,7 @@ REQUIRED VALUES :
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PURUSHOTTAM&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="PURUSHOTTAM" width="500" height="200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PURUSHOTTAM&show_icons=true&theme=tokyonight&locale=en" alt="PURUSHOTTAM" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PURUSHOTTAM&show_icons=true&theme=tokyonight&locale=en" alt="PURUSHOTTAM" width="500" height="200" /></p>
 
 <br>
 
