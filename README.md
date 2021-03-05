@@ -17,7 +17,6 @@ CONFIG VARS
 
 ### DEPLOY TO HEROKU
 * THAT IS EASY WAY TO DEPLOY ✅
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
 
 <div class="separator" style="clear: both; text-align: center;">
 
