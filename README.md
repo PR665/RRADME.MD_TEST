@@ -20,9 +20,10 @@ CONFIG VARS
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://telegra.ph/file/dfda89ef766270a5f6919.jpg" imageanchor="2" style="margin-left: 2em; margin-right: 2em;"><img border="0" data-original-height="400" data-original-width="1080" height="400" src="hhttps://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku" width="1080" height="400" /></a></div>
-<div>
 
+<a href="https://github.com/PURHSHOTTAM/MUSIC-PLAYER-ULTRA" imageanchor="2" style="margin-left: 2em; margin-right: 2em;"><img border="0" data-original-height="400" data-original-width="1080" height="400" src="https://telegra.ph/file/eec1e916abecbfee52051.jpg" width="1080" height="400" /></a></div>
+
+<div>
 
 # TRYING TO LEARN ABOUT 🐧⚡⤵️
 </p>
