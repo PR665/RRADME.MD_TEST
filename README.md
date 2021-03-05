@@ -1,10 +1,10 @@
 # te1
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xditya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PURUSHOTTAM&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
 
 # td
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xditya&show_icons=true&theme=tokyonight&locale=en" alt="xditya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PYRUSHOTTAM&show_icons=true&theme=tokyonight&locale=en" alt="xditya" /></p>
 
 ### Heroku
 
